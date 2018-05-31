@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+hi world it's my first projec.
